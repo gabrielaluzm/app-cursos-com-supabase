@@ -20,14 +20,14 @@ https://seuappdecursos.flutterflow.app
 
 ## 📸 Prints do app
 
-### 📍 Página "Login"
-![Login](./login_cursos.png)
+### 📍 Página "Login"  
+<img src="./login_cursos.png" alt="Login" width="250"/>
 
-### 📍 Página "Meus Cursos"
-![Meus Cursos](./meus_cursos.png)
+### 📍 Página "Meus Cursos"  
+<img src="./meus_cursos.png" alt="Meus Cursos" width="250"/>
 
-### 📍 Página "Detalhes do Curso"
-![Detalhes do Curso](./detalhes_cursos.png)
+### 📍 Página "Detalhes do Curso"  
+<img src="./detalhes_cursos.png" alt="Detalhes do Curso" width="250"/>
 
 ---
 
